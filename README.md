@@ -27,7 +27,7 @@ Check out my GitHub Repositories for details about the projects! 🚀 
 🔹 Insurance Analytics - Used predictive modeling to assess claim probabilities and fraud detection.
 🔹 Crowd Funding Analytics - Examined funding trends and success factors in crowdfunding campaigns.
 
-Check out my GitHub Repositories for more projects! 🚀
+Check out my [GitHub Repositories](https://github.com/shilpa20jn?tab=repositories) for more projects! 🚀
 
 📫 Let's Connect!
 🔗 LinkedIn: www.linkedin.com/in/bindu-shilpa-data-analyst
