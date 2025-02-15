@@ -54,7 +54,6 @@ Check out my [GitHub Repositories](https://github.com/shilpa20jn?tab=repositorie
 
 I'm open to collaborations, learning opportunities, and job offers. Let's connect!
 
-💞️ I’m looking to collaborate on ...
 
 
 <!---
