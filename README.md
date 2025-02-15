@@ -52,7 +52,7 @@ Check out my [GitHub Repositories](https://github.com/shilpa20jn?tab=repositorie
 
 📧 Email: shilpa20jn@gmail.com
 
-I'm open to collaborations, learning opportunities, and job offers. Let's connect!
+I'm open to collaborations, learning opportunities, and job offers. Let's connect!🚀
 
 
 
