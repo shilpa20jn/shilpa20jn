@@ -1,7 +1,7 @@
  👋 Hi, I’m Bindu Shilpa J N, I'm a Certified Data Analyst from ExcelR with a background in Commerce (BCom) and an MBA in Finance and Marketing.
   
-- Passionate about turning data into insights, I am specialize in:
-- 
+  Passionate about turning data into insights, I am specialize in:
+  
 📊 Data Analysis & Visualization (Excel, Power BI, Tableau)
 
 🏠 SQL & Databases (MySQL)
@@ -23,6 +23,7 @@
 🔹 Statistics & Analytics: Regression, Data Cleaning 
 
 🔍 Projects 
+
 🔹 E-commerce Analytics - Created dashboards in Excel, Power BI, and Tableau to analyze customer behavior, sales trends, and product performance. 
                           Executed SQL queries for data extraction and processing.
                           
@@ -34,6 +35,7 @@
                              Performed SQL queries for data manipulation.
 
 Check out my GitHub Repositories for details about the projects! 🚀 
+
 🔹 E-commerce Analytics - Analyzed customer behavior, sales trends, and product performance using SQL. 
 
 🔹 Banking Analytics - Conducted risk analysis and customer segmentation to optimize financial decision-making. 
